@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "727136378813",
+    "firebase_url": "https://androidtrainee-7e562.firebaseio.com",
+    "project_id": "androidtrainee-7e562",
+    "storage_bucket": "androidtrainee-7e562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727136378813:android:500029ed2f6fc4a2",
+        "android_client_info": {
+          "package_name": "com.example.naveen.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727136378813-4bk3jnndm3j808q9b9hglivk274it15f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTbXVUp40ULu-4Evb6iF-ovUq6WDbT_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727136378813:android:47f8ffb42fccbfab",
+        "android_client_info": {
+          "package_name": "com.example.naveen.findme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727136378813-4bk3jnndm3j808q9b9hglivk274it15f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTbXVUp40ULu-4Evb6iF-ovUq6WDbT_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727136378813:android:6bdf7c99bd50c211",
+        "android_client_info": {
+          "package_name": "com.example.naveen.findme1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727136378813-4bk3jnndm3j808q9b9hglivk274it15f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTbXVUp40ULu-4Evb6iF-ovUq6WDbT_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727136378813:android:280d130ec9dbc60f",
+        "android_client_info": {
+          "package_name": "com.example.naveen.findyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727136378813-4bk3jnndm3j808q9b9hglivk274it15f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTbXVUp40ULu-4Evb6iF-ovUq6WDbT_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
